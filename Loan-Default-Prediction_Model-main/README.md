@@ -32,7 +32,6 @@ CSV/: Contains the dataset files.
 Notebooks/: Jupyter notebooks for data exploration and model development.
 ipynb/: Python source code for data preprocessing, model training, and evaluation.
 
-## Contributing
-I want you to know that contributions to this project are welcome. If you have any suggestions, find a bug, or want to add new features, please create an issue or submit a pull request.
+
 
 
