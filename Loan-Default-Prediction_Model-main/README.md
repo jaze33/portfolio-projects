@@ -8,7 +8,7 @@ This repository contains a machine learning project that focuses on predicting l
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
+
 
 ## Introduction
 The loan prediction project aims to address the challenge of assessing the creditworthiness of loan applicants. It utilizes various machine learning algorithms to build predictive models that evaluate the likelihood of a loan being paid back or defaulted. These models can help financial institutions mitigate risks and make lending decisions that are both profitable and secure.
